@@ -8,3 +8,6 @@ El sector de las aplicaciones de productividad se centra en herramientas digital
 Dayli busca cubrir una necesidad concreta: organizar responsabilidades personales, académicas y profesionales sin depender de varias herramientas diferentes. Para ello se han analizado TickTick, Todoist y Microsoft To Do.
 
 En esta primera etapa, Dayli prioriza la sencillez, la organización personal, la facilidad de uso y una identidad visual reconocible.
+
+# Gestion-de-Issues
+![DAFO](https://github.com/luissoldadomorales2007-bit/Gesti-n-de-Issues/blob/4-dafo-del-proyecto/DAFO%20del%20proyecto%20Dayli%401x.png)
