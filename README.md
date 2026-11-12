@@ -1,4 +1,4 @@
-# Gesti-n-de-Issues
+# Gestión-de-Issues
 
 # Descripción
 
